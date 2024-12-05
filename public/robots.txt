@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://calculadora-vacaciones.es/sitemap.xml
+
+# Optimizations
+Crawl-delay: 10
